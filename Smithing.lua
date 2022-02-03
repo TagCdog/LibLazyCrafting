@@ -1210,6 +1210,9 @@ local setInfo =
 	{{172455 , 172475, [6] = 172462, [7] =172490 },3,isSwapped=true}, -- 582 Hist Whisperer's Song
 	{{172829 , 172849, [6] = 172836, [7] =172864 },7,isSwapped=true}, -- 583 Heartland Conquerer
 	{{173203 , 173223, [6] = 173210, [7] =173238 },5,isSwapped=true}, -- 584 Diamond's Victory
+	{{178806 , 178826, [6] = 178813, [7] =178841 },3,isSwapped=true}, -- 610 Wretched Vitality
+	{{179180 , 179200, [6] = 179187, [7] =179215 },7,isSwapped=true}, -- 611 Deadlands Demolisher
+	{{179554 , 179574, [6] = 179561, [7] =179589 },5,isSwapped=true}, -- 612 Iron Flask
 	
 }
 
